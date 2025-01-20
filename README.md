@@ -5,7 +5,7 @@ This repository contains a script for automating a cell segmentation and analysi
 
 The main functionality is in "automate_seg.py". A minor additional script, "show_masks.py" is included simply to open mask images with matplotlib, as they cannot be viewed with a traditional image viewer. 
 
-This repostitory was developed using specific versions of Python, Cellpose, Cellpose.io, OpenCV, and Scikit-Image, among othes. A requirements.txt file is provided to set up the necessary virtual enviornment.
+This repository was developed using specific versions of Python, Cellpose, Cellpose.io, OpenCV, and Scikit-Image, among othes. A requirements.txt file is provided to set up the necessary virtual enviornment.
 
 ## Usage
 Ensure that the following directories are present:
