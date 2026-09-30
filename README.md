@@ -1,4 +1,4 @@
-# Automate Segementation Pipeline for Ma Lab
+# Automated Cellpose Segmentation Pipeline for Quantitative Image Analysis
 
 ## Introduction 
 This repository contains a script for automating a cell segmentation and analysis procedure used by the lab of Dr. Haiting Ma at the UIUC MCB department. It relies on the Cellpose API for generalized cell segmentation, the citation for which can be found as [1] in the references section. It also utilizes functionalities from the scikit-image library, can be cited as [2]. 
